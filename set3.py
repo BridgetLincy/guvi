@@ -6,6 +6,6 @@ if((a>='a' and a<='z')or(a>='A' and a<='Z')):
    if (a=='A'or a=='E'or a=='I'or a=='O'or a=='U'):
        print("Vowel")
    else:
-      print("Consonent")
+      print("Consonant")
 else:
     print("Invalid")
